@@ -10182,21 +10182,28 @@
     "@nguniversal/common" "15.2.0"
     tslib "^2.3.0"
 
-"@ngxs/devtools-plugin@3.7.6":
-  version "3.7.6"
-  resolved "https://registry.yarnpkg.com/@ngxs/devtools-plugin/-/devtools-plugin-3.7.6.tgz#f917775e0c5cd418c45fdc732e0e99c72c3433d2"
-  integrity sha512-KbFak7ZF8U23z1TDwpkKqReNMco4c958SAJ02JOc89U+O8scpwOCTUh/aJxoy8ZsqV4/F1eb4DeZ5EtXXXznwg==
+"@ngxs/devtools-plugin@3.8.1":
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/@ngxs/devtools-plugin/-/devtools-plugin-3.8.1.tgz#43f0bcc83ece59baa6d141e41fd026f91de831fb"
+  integrity sha512-IRHoHdV/lxNXaisKGdcGvSNbrgjCpM06eiqC93K+tOfwgmDY/hNsDNmKlXn9xmdYxF9U6v/1CXtAr0Q0Ux7dVQ==
   dependencies:
-    tslib "^1.9.0"
+    tslib "^2.2.0"
 
-"@ngxs/logger-plugin@3.7.6":
-  version "3.7.6"
-  resolved "https://registry.yarnpkg.com/@ngxs/logger-plugin/-/logger-plugin-3.7.6.tgz#108abe251108d9a7c6b99d749732c97a43e10bbb"
-  integrity sha512-whB+cS6gmoEQg6+rKohrjYBj6jS1Z2TLGXMmluPNJLt1ZAmd2LVX1O9tdK5tDu/imu5/wD40k5UM5ffEUcJXlw==
+"@ngxs/logger-plugin@3.8.1":
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/@ngxs/logger-plugin/-/logger-plugin-3.8.1.tgz#837405f2ab61d5c901a8ccb2617c40c48da4780d"
+  integrity sha512-ySgt8jUkLQJcp3jxg1a1d7pkD141ltHeOHdtjrTP4MT4ICazE9s6NJV2Gzb616R/IYOVES4xUA8XSg0+ng8Pzg==
   dependencies:
-    tslib "^1.9.0"
+    tslib "^2.2.0"
 
-"@ngxs/store@3.7.6", "@ngxs/store@^3.7.0", "@ngxs/store@^3.7.5":
+"@ngxs/store@3.8.1":
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/@ngxs/store/-/store-3.8.1.tgz#dc4b823fc179149c32ac6158149877dda615abd2"
+  integrity sha512-nbapLdMx+mtnb57BUWXbD6qYfVICv6Rp2NdoGx1++qDbc44ALC49KbF7rSjyPltlExxharAzoNpzO3JuueCP+A==
+  dependencies:
+    tslib "^2.2.0"
+
+"@ngxs/store@^3.7.0", "@ngxs/store@^3.7.5":
   version "3.7.6"
   resolved "https://registry.yarnpkg.com/@ngxs/store/-/store-3.7.6.tgz#567190b17e1111ec7f9bcc451c99bbdac82c950a"
   integrity sha512-ljnrkVrO/HmDakQImWr9G2NbpbNd8MjoPI3Ad2GsIbK/Ey4psEyMGgg6jcaMyhDfDAs2Z69Q+5TVJS0GV4euMw==
